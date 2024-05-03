@@ -5,7 +5,3 @@ api_keys.py
 # Jupyter Notebook checkpoints
 
 .ipynb_checkpoints/
-
-# Cache
-
-__pycache__/
